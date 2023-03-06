@@ -1,24 +1,24 @@
 # large_language_model_training_playbook
-An open collection of implementation tips, tricks and ressources for training large language models
+An open collection of implementation tips, tricks and ressources for training large language models.
 
-# Topics
+The following covers questions related to various topics which are interesting or challenging when training large language models.
 
-## Questions related to model architectures
+## Deciding on a model architecture
 
-## Questions related to finding model sizes
+## Deciding on the model size
 
-## Questions related to tensor precision
+## Issues and questions related to tensor precision
 
-## Questions related to training hyper-parameters
+## Selecting training hyper-parameters and model initializations
 
-## Questions related to model initializations
+## Questions realted to maximizing throughput
 
-## Questions related to maximizing throughput
+## Avoiding, recovering from, or understanding instabilities
 
-## Questions related to avoiding or recovering from instabilities
+## Issues with data and data processing
 
-## Questions related to issues with data
+## System and hardware failures
 
-## Tips on how to debug issues
+## Tips on how to debug issues and what metrics to follow during the training
 
 ## Ressources
