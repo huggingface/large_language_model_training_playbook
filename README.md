@@ -1,4 +1,4 @@
-# large_language_model_training_playbook
+# 📖 The Large Language Model Training Playbook
 An open collection of implementation tips, tricks and ressources for training large language models.
 
 The following covers questions related to various topics which are interesting or challenging when training large language models.
