@@ -11,7 +11,7 @@ The following covers questions related to various topics which are interesting o
 
 ## Selecting training hyper-parameters and model initializations
 
-## Questions related to maximizing throughput
+## [Maximizing throughput](./throughput)
 
 ## Avoiding, recovering from, or understanding instabilities
 
