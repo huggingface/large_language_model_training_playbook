@@ -17,8 +17,8 @@ The following covers questions related to various topics which are interesting o
 
 ## Issues with data and data processing
 
-## System and hardware failures
+## [Debugging software and hardware failures](./debug/)
 
-## Tips on how to debug issues and what metrics to follow during the training
+## Tips on what metrics to follow during the training
 
-## [Resources](./resources)
+## [Resources](./resources/)
