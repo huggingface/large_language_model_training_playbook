@@ -1,6 +1,8 @@
 # How to Maximize Throughput
 
-In general maximazing throughput is all about running many experiments and measuring
+In general maximizing throughput is all about running many experiments and measuring the outcome and chosing the one that is superior.
+
+In certain situations your modeling team may ask you to choose some hyper parameters that will be detrimental to throughput but overall beneficial for the overall model's success.
 
 ## Crucial reproducibility requirements
 
@@ -46,3 +48,5 @@ XXX
 
 
 ### Number/size of Attention heads
+
+XXX
