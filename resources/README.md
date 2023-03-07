@@ -19,6 +19,6 @@ The listing is in no particular order:
  [logbook](https://github.com/facebookresearch/metaseq/tree/main/projects/OPT/chronicles) |
  [Video](https://www.youtube.com/watch?v=p9IxoSkvZ-M)
 
-- HF m4-logbook (Flamingo repro) (2023) | [Training Logbook](https://github.com/huggingface/m4-logbook/)
+- HF m4 (Flamingo repro) (2023): [Learning log](https://docs.google.com/document/d/1ZNGyVWYFUbzV0xuei4SED2QAakGjMpaaQALcKYQm46U/edit) | [Training Logbook](https://github.com/huggingface/m4-logbook/)
 
 -

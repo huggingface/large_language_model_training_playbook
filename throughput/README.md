@@ -1,4 +1,6 @@
-# How to Maximize Throughput
+# How to Maximize Training Throughput
+
+The faster you can make your model to train the sooner the model will finish training, which is important not only to being first to publish something, but also potentially saving a lot of money.
 
 In general maximizing throughput is all about running many experiments and measuring the outcome and chosing the one that is superior.
 
