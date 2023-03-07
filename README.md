@@ -1,5 +1,5 @@
 # 📖 The Large Language Model Training Playbook
-An open collection of implementation tips, tricks and ressources for training large language models.
+An open collection of implementation tips, tricks and resources for training large language models.
 
 The following covers questions related to various topics which are interesting or challenging when training large language models.
 
@@ -11,7 +11,7 @@ The following covers questions related to various topics which are interesting o
 
 ## Selecting training hyper-parameters and model initializations
 
-## Questions realted to maximizing throughput
+## Questions related to maximizing throughput
 
 ## Avoiding, recovering from, or understanding instabilities
 
