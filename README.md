@@ -21,4 +21,4 @@ The following covers questions related to various topics which are interesting o
 
 ## Tips on how to debug issues and what metrics to follow during the training
 
-## Ressources
+## [Resources](./resources)
