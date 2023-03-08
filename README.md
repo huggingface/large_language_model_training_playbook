@@ -3,19 +3,7 @@ An open collection of implementation tips, tricks and resources for training lar
 
 The following covers questions related to various topics which are interesting or challenging when training large language models.
 
-## Deciding on a model architecture
-
-### A standard architecture
-
-### Activations
-
-### Positional embeddings
-
-### Frequently seen modifications
-
-#### Parallel feed-forward and attention
-
-#### Additional layer-norms
+## [Deciding on a model architecture](./architecture/)
 
 ## Deciding on a model parallelism strategy
 
