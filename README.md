@@ -13,7 +13,7 @@ The following covers questions related to various topics which are interesting o
 
 ## [Maximizing throughput](./throughput)
 
-## Avoiding, recovering from, or understanding instabilities
+## [Avoiding, recovering from and understanding instabilities](./instabilities)
 
 ## Issues with data and data processing
 
