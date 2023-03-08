@@ -16,13 +16,15 @@ limitations under the License.
 
 # Contribute to the Large Language Model Training Playbook
 
-Everyone is welcome to contribute, and we value everybody's contribution. Tips/writing
-contributions are not the only way to help the community. Answering questions in issues, helping
+The Large Language Model Training Playbook is a living document. We anticipate regular improvements, so please please watch the repository to be notified about these.
+
+Everyone is welcome to contribute, and we value everybody's contribution. New content writing
+contributions are not the only way to help. Answering questions in issues, helping
 others in pull-request, and improving the existing writing are also often valuable.
 
-It also helps us if you spread the word! Reference the playbook in blog posts
-about the awesome projects it made possible, shout out on Twitter every time it has
-helped you, or simply ⭐️ the repository to say thank you.
+Though, please don't file a pull request without first coordinating via the issue system (see below) as (1) it might be content that goes beyond what the playbook is intended to cover or (2) someone else might already be working on this.
+
+Feel also free to spread the word! You can reference the playbook in blog posts or shout out on Twitter every time if it has helped you, or simply ⭐️ the repository to say thank you.
 
 However you choose to contribute, please be mindful and respect our
 [code of conduct](https://github.com/huggingface/large_language_model_training_playbook/blob/main/CODE_OF_CONDUCT.md).
