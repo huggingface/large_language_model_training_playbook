@@ -1,4 +1,7 @@
 # 📖 The Large Language Model Training Playbook
+
+This playbook is a companion to the [LLM Training Handbook](https://github.com/huggingface/llm_training_handbook) which contains a lot more details and scripts.
+
 An open collection of implementation tips, tricks and resources for training large language models.
 
 The following covers questions related to various topics which are interesting or challenging when training large language models.

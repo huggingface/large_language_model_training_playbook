@@ -5,12 +5,12 @@
 
 The listing is in no particular order:
 
-- HF BLOOM-176B (2022):
+- BigScience BLOOM-176B (2022):
 [chronicles-prequel](https://github.com/bigscience-workshop/bigscience/blob/master/train/tr11-176B-ml/chronicles-prequel.md) |
 [chronicles](https://github.com/bigscience-workshop/bigscience/blob/master/train/tr11-176B-ml/chronicles.md) |
 [the full spec and discussions](https://github.com/bigscience-workshop/bigscience/blob/master/train/tr11-176B-ml/)
 
-- HF pre-BLOOM 108B training experiments (2021):
+- BigScience pre-BLOOM 108B training experiments (2021):
 [chronicles](https://github.com/bigscience-workshop/bigscience/blob/master/train/tr8-104B-wide/chronicles.md) |
 [the full spec and discussions](https://github.com/bigscience-workshop/bigscience/blob/master/train/tr8-104B-wide)
 
