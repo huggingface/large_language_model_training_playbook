@@ -9,7 +9,7 @@ The following covers questions related to various topics which are interesting o
 
 ## Issues and questions related to tensor precision
 
-## Selecting training hyper-parameters and model initializations
+## [Selecting training hyper-parameters and model initializations](./hparams)
 
 ## [Maximizing throughput](./throughput)
 

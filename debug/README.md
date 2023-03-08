@@ -1,5 +1,6 @@
 # Debugging Software And Hardware Failures
 
+XXX: I concat'ed 2 docs I wrote elsewhere so might need to restructure them into a more coherent doc.
 
 ## Debugging PyTorch programs
 
@@ -13,7 +14,7 @@ python -m torch.distributed.run --role $(hostname -s): --tee 3 --nnodes 1 --npro
 
 Now each log line will be prefixed with `[hostname:rank]`
 
-Note that the colon is important.
+Note that the colon `:` at the end of `--role` entry is important, that's how you get `hostname:rank` prefix. But you can add any other separator there, e.g if you use `-`, you will end up with `hostname-rank` prefix.
 
 If you're in a SLURM environment the above command line becomes:
 
